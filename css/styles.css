@@ -1,6 +1,18 @@
 .column {
-  width: 300px;
+  width: 250px;
   float: left;
+  background-color: green;
+  margin: 20px;
+  padding: 20px;
+  border: solid;
+}
+
+#col2 {
+  background-color: yellow;
+}
+
+#col3 {
+  background-color: red;
 }
 
 .email {
